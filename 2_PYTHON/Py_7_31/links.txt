@@ -1,0 +1,5 @@
+> UML (diagrama):
+https://www.umletino.com/umletino.html
+
+> Enums en Python:
+https://docs.python.org/es/3/library/enum.html
